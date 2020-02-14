@@ -1,1 +1,9 @@
+body{
+    background-color: gray;
+    color: white;  background-image: url('./reindeer-in-the-woods-1809698.jpg');
+    background-size: cover;
 
+}
+h1{
+    color: blue
+}
